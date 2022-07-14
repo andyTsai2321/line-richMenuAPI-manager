@@ -2,6 +2,9 @@
 用於方便操作Line RichMenu API
 
 ### 使用方式
+```
+npm i
+```
 到setting.js設置好資料，接著命令列執行想要的操作即可
 
 ### 命令列表
