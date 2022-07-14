@@ -7,6 +7,6 @@
 ### 命令列表
 
 -   `npm run create` - 創建richMenu
--   `npm run getDefult` 取得目前預設richMenu
+-   `npm run getDefault` 取得目前預設richMenu
 -   `npm run getList` - 取得get richMenu List
 -   `npm run delete` - 刪除指定richMenu

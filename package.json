@@ -7,7 +7,7 @@
     "start": "node richMenuAction/create.js",
     "create": "node richMenuAction/create.js",
     "getList": "node richMenuAction/getList.js",
-    "getDefult": "node richMenuAction/getList.js",
+    "getDefault": "node richMenuAction/getList.js",
     "delete": "node richMenuAction/getList.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
