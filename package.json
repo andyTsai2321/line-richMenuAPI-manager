@@ -1,0 +1,19 @@
+{
+  "name": "lineapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node richMenuAction/create.js",
+    "create": "node richMenuAction/create.js",
+    "getList": "node richMenuAction/getList.js",
+    "getDefult": "node richMenuAction/getList.js",
+    "delete": "node richMenuAction/getList.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.0"
+  }
+}
